@@ -5,4 +5,4 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]()
 <h2>📝 Certifications:</h2>
-- [Google Cybersecurity Certificate]
+  - [Praciting DS & Algos in Python]()
