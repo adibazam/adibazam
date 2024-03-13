@@ -4,7 +4,7 @@
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| OS Hardening/Security Incident Analysis                           | <a href="https://github.com/adibazam/OS-Hardening-Lab/tree/main"> Lab</a>|
+| OS Hardening/Security Incident Report                           | <a href="https://github.com/adibazam/OS-Hardening-Lab/tree/main">Online Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
