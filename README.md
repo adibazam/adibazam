@@ -6,7 +6,7 @@
 |-----------------------------------------------|----------------------------|
 | OS Hardening/Security Incident Report                           | <a href="https://github.com/adibazam/OS-Hardening-Lab/tree/main">Online Lab</a>|
 | Task Automation Algorithm via Python| <a href="https://google.com">Online Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Network Traffic Analysis via Wireshark          | Online Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
