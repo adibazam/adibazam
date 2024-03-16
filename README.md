@@ -8,4 +8,4 @@
 | Task Automation Algorithm via Python| <a href="https://github.com/adibazam/Task-Automation-Algorithm-via-Python/blob/main/Python%20Task%20Automation%20Lab.ipynb">Online Lab</a>|
 | Network Traffic Analysis via Wireshark      | <a href="https://github.com/adibazam/Network-Traffic-Analysis-via-Wireshark">Online Lab</a>|
 | Examine alerts, logs, and rules with Suricata                  | <a href="https://github.com/adibazam/Examine-alerts-logs-and-rules-with-Suricata">Online Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Performing queries on Chronicle | <a href="https://github.com/adibazam/Performing-queries-on-Chronicle">Online Lab|
