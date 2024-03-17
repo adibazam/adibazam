@@ -1,12 +1,12 @@
 <h1>Hi, I'm Adib Azam! </h1>
 My GitHub is a showcase of my journey in exploring and honing skills within the cybersecurity landscape. 
-From penetration testing to threat analysis and beyond, I strive to delve deeper into the intricacies of securing digital assets and systems.
+From incident response to threat analysis and beyond, I strive to delve deeper into the intricacies of securing digital assets and systems.
 
-## Objective
+## 🛡️ Objective
 Looking to forge a career in cybersecurity, I leverage this platform not only to showcase my technical prowess but also to connect with like-minded professionals and potential collaborators.
 Feel free to explore my repositories, where you'll find a range of projects and contributions reflecting my dedication to cybersecurity. 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+## 👨‍💻 Cybersecurity Projects:
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
