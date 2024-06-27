@@ -10,7 +10,7 @@ Feel free to explore my repositories, where you'll find a range of projects and 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Task Automation Algorithm via Python| <a href="https://github.com/adibazam/Task-Automation-Algorithm-via-Python/blob/main/Python%20Task%20Automation%20Lab.ipynb">Online Lab</a>|
+| Create a fully integrated SOAR solution incorporating Wazuh & TheHive| <a href="https://github.com/adibazam/SOC-Automation-Project">Online Lab</a>|
 | Task Automation Algorithm via Python| <a href="https://github.com/adibazam/Task-Automation-Algorithm-via-Python/blob/main/Python%20Task%20Automation%20Lab.ipynb">Online Lab</a>|
 | Network Traffic Analysis via Wireshark      | <a href="https://github.com/adibazam/Network-Traffic-Analysis-via-Wireshark">Online Lab</a>|
 | Examining alerts, logs, and rules with Suricata                  | <a href="https://github.com/adibazam/Examine-alerts-logs-and-rules-with-Suricata">Online Lab|
